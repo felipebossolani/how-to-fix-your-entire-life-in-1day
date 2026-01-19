@@ -48,7 +48,7 @@ Tradução e adaptação para fins educacionais e de estudo.
 
 ---
 
-### Contato
-Este repositório é mantido por **Felipe Bossolani**.
-Sinta-se à vontade para conectar:
-*   [LinkedIn](https://www.linkedin.com/in/felipebossolani/)
+### Para devs e PMs em reflexão
+Se você trabalha com produto ou desenvolvimento e está nesse momento de questionamento, pode me chamar. Sempre disponível pra trocar uma ideia sobre transição de carreira, founders, ou só bater um papo sobre o protocolo.
+
+[LinkedIn](https://www.linkedin.com/in/felipebossolani/)

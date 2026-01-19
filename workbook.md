@@ -109,7 +109,7 @@ Configure alarmes no seu celular para estes horários com as respectivas pergunt
 **O Inimigo Real (Padrão/Crença interna):**
 > [Resposta]
 
-**Anti-cisão Comprimida (1 frase):** (O que você se recusa a deixar sua vida se tornar)
+**Anti-visão Comprimida (1 frase):** (O que você se recusa a deixar sua vida se tornar)
 > [Resposta]
 
 **Visão MVP (1 frase):** (Para onde você está construindo)
